@@ -1,4 +1,4 @@
 void main()
 {
-	pf(good day)
+	pf(HI good day)
 }
